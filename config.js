@@ -25,7 +25,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "可爱的小猪猪": "./https://ibb.co/MCLmtpb",
+        "可爱的小猪猪": "./imgs/https://lh3.googleusercontent.com/oa5cOPuOPB0Npq25cjvO5wyt_Ektoej3k0rMQOsYn5CeqnYR0RQFcHfAreDcgJ-LFNMlY8f32OSEsjo5LQAg0rnGJ8jlxZbo7nnPQjax6oTncizd-cVhEeB2AmU_POeaCetTmil8OQRyqbIMzMA6MxkVNJyKakYzKZxu5yjVKD_zgcDpAJT_dR2gStMS3XACYA3G1WidEv-pxVv4pK-lASf9laG4jYlDayBULdlY4DLPvbk0fRXtlWIYyp33n9QzZaNcBaqu5uth2BGg3hvbpM2vOi_Krdfin5fq7Lx-eKMxQ3972kc8UvmBz0TM3y__H1iaGBQhbOWDrwN9D8l757AMKNcfkS9GLvYwBQpBqlSBfPl1S9wTFgAtIrNahJb9CYaUmn8nnh5Aq1XkR_F5eF7TQx16Jgp6O4BofyiNs708H4SAA4Xb7enN3D4CIPXsW-0Q4xk4Vcqb4-PS5r8S8n-VDJC2Ws2kVtkhYpG7PkCaNpSFK_CilEW9z8-QIwynbDFVsPwof34bqbQbFQT_JbkB-LFIe8375jcM9Qh31c2A3wIDPYJ8VkUrB9O7MCqdJ-UErXc2volE7-Xq7wDNTO_463GjnWese234-WpCB4Bal-DmCrF9L3IXmMTlXsJsJsNNtIyXqhJz8mVTvfnbKc6Wp_Zy1PilI1TPZ03pmGU6hyBDvCg5vHMcRIpa=w834-h625-no?authuser=0",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
